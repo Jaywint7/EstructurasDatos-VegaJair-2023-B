@@ -1,4 +1,4 @@
-"""print("Ejercicio 1")
+print("Ejercicio 1")
 print("Jair Vega")
 print("-- Calculo de la suma de N pares ---")
 numero = int(input('Ingresa el número: '))
@@ -239,7 +239,7 @@ while True:
         else:
             print("ERROR - Ingrese un numero valido o 0 para salir")
     except ValueError:
-        print("Ingrese un numero valido")"""
+        print("Ingrese un numero valido")
 
 
 print("Ejercicio 11")
